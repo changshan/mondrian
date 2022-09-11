@@ -1,0 +1,5 @@
+Title: mondrian
+Version: 9.4.0.0-SNAPSHOT
+VersionMajor: 8
+VersionMinor: 000
+Vendor: Pentaho
